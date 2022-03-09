@@ -36,7 +36,7 @@ Choose an approach represented by the following tabs to update the `default` *Se
 OpenShift Console::
 +
 --
-. From the *Workloads -> Deployments* page, click on the *Namespace*, then *Role Bindings* and then the *Create Binding* button.
+. From the *Administrator* view -> *Workloads -> Deployments* page, click on the *Namespace*, then *Role Bindings* and then the *Create Binding* button. (note that this is not available in the Red Hat developer-sandbox due to restrcitions, use instead the path presented above to reach the Role binding web console for your *username-dev* Namespace)
 +
 image::parksmap-permissions-membership-serviceaccount-list.png[Service account list]
 +
